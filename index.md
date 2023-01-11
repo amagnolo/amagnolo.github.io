@@ -1,4 +1,4 @@
-# Main
+# Home
 
 Hi there 👋
 
