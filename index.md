@@ -7,6 +7,7 @@ Hi there 👋
 * [Markdown](prova-markdown.md)
 * [HTML](prova.html)
 * [Pico CSS](picocss.html)
+* [Animate CSS](animate.html)
 * [Alpine JS](alpinejs.html)
 
 
