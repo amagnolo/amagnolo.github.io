@@ -9,6 +9,7 @@ Testing GitHub Pages supported features and formats.
 * [Pico CSS](picocss.html)
 * [Animate CSS](animate.html)
 * [Alpine JS](alpinejs.html)
+* [neat-annotations](neat-annotations.html)
 
 ## Sub
 
